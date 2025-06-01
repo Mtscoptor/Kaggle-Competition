@@ -11,4 +11,4 @@
 -  **成绩：** `0.16295`
 -  **代码链接：** [Kaggle Notebook](https://www.kaggle.com/code/mtscoptor/house-prices) &#8192; [GitHub](House_prices/house_prices.ipynb)
 -  **项目亮点：**
--  &#8192; **1.** 鉴于本项目训练集样本量较少，因而采用k折交叉验证法进行损失分析
+&#8192; **1.** 鉴于本项目训练集样本量较少，因而采用k折交叉验证法进行损失分析
